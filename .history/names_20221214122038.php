@@ -1,7 +1,6 @@
 <?php
-$names = ['James', 'John', 'Michael', 'Joseph', 'Ann']
+$names = ['James', 'John', 'Michael', 'Joseph']
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
